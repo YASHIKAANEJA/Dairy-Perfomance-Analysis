@@ -8,14 +8,14 @@ This project uses Microsoft Fabric to build an end-to-end analytics solution for
 * Enable data-driven decision-making
 
 # 🛠️ Tools & Technologies
--- Microsoft Fabric
--- Lakehouse
--- Data Warehouse
--- Data Pipelines
--- Semantic Model
--- Power BI
--- DAX
--- Data Modeling (Fact & Dimension tables)
+* Microsoft Fabric
+* Lakehouse
+* Data Warehouse
+* Data Pipelines
+* Semantic Model
+* Power BI
+* DAX
+* Data Modeling (Fact & Dimension tables)
 
 # 🧱 Complete Microsoft Fabric Workflow
 ## Step 1: Workspace Creation
