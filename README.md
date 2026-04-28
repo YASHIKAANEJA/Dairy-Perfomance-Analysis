@@ -25,10 +25,10 @@ This project uses Microsoft Fabric to build an end-to-end analytics solution for
 ## Step 2: Data Ingestion into Lakehouse
 * Created a new Lakehouse named dairy_lw
 * Used Copy Activity to bring data into Fabric Lakehouse and ingest raw data from multiple sources:
-    ** Sales data (CSV/Excel)
-    ** Inventory logs
-    ** Delivery records
-    ** Product return data
+    * Sales data (CSV/Excel)
+    * Inventory logs
+    * Delivery records
+    * Product return data
 
 
 
