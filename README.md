@@ -64,15 +64,15 @@ This project uses Microsoft Fabric to build an end-to-end analytics solution for
 
 ## 1. Dairy Performance Overview
 * Monitor and optimize dairy business performance
-* View here -
+* View here - https://github.com/YASHIKAANEJA/Dairy-Perfomance-Analysis/blob/main/Dairy%20Performance%20Overview.png
 
 ## 2. Dairy Supply Chain & Inventory Intelligence
 * Tracks dairy supply, inventory, and distribution performance
-* View Here -
+* View Here - https://github.com/YASHIKAANEJA/Dairy-Perfomance-Analysis/blob/main/Dairy%20Supply%20Chain%20%26%20Inventory%20Intelligence.png
 
 ## 3. Returns Analytics & Logistics Efficiency
 * Reduce wastage and operational inefficiencies
-* View here -
+* View here - https://github.com/YASHIKAANEJA/Dairy-Perfomance-Analysis/blob/main/Returns%20Analytics%20%26%20Logistics%20Efficiency.png
 
 # 🧠 Key Business Insights
 * Revenue is highly volatile, with sharp dips in February and July despite a peak in May.
